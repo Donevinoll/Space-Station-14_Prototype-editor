@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Space_Station_14_Prototype_editor"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="SS14 - Prototype editor" Height="450" Width="800" FontFamily="Segoe UI">
     <Grid>
 
     </Grid>
